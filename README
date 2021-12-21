@@ -29,3 +29,16 @@ Please feel free to send us an email:
 - with feedback regarding the datasets. 
 - with information on how you have used the dataset. 
 - if interested in a collaborative research project.
+
+.......................................................................
+
+AraSenti Lexicon
+-----------------------
+
+
+- Read data as follows (in Python):
+import pandas as pd
+data= pd.read_csv('AraSentiLexiconV1.0.csv')
+
+Or read the original data text file (AraSentiLexiconV1.0.) but make sure to set the encoding to (windows-1256).
+
